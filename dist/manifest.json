@@ -1,0 +1,22 @@
+{
+  "name": "Grammar App (N4)",
+  "short_name": "N4 Grammar",
+  "description": "JLPT N4 grammar study app based on the Kanzen Master textbook",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2c3e50",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
